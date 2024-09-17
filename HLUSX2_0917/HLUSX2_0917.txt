@@ -1,0 +1,10 @@
+Local
+1. git status - állapot ellenőrzés
+2. git add "HLUSX2_0917" - feltöltés vagy ha több fájl van benne
+3. git add . - feltölti az összes fájlt, ami a "HLUSX2_0917"-be van
+4. git comit -m "3 fálj mentes" - feltöltés a stage-re
+5. git log - látni milyen feltöltések készültek
+6. git shortlog
+
+remote repository
+git push
